@@ -1,5 +1,5 @@
 # Assignment 1
-about-f.netlify.app
+https://about-f.netlify.app
 
 #Assignment 2
 https://menu-list-by-furqan.netlify.app
